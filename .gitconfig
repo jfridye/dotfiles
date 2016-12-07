@@ -178,3 +178,7 @@
 [url "git://gist.github.com/"]
 
 	insteadOf = "gist:"
+
+[user]
+	name = Joseph Fridye
+	email = jfridye@gmail.com
